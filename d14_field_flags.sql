@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `d14_field_flags`
 --
-CREATE DATABASE IF NOT EXISTS `d14_field_flags` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `d14_field_flags`;
+CREATE DATABASE IF NOT EXISTS `field_flags` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE `field_flags`;
 
 -- --------------------------------------------------------
 
