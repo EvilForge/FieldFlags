@@ -1,0 +1,37 @@
+table {border:.1em solid white;border-collapse: collapse;}
+td {color:white;border:.1em solid white;vertical-align:top;text-align: center;}
+body {font-family:Arial,Helvitica,sans-serif;font-size:large;color;background-color:black;color:white;font-weight:bold;}
+table.admintable {width: 40%;}
+td.admincell {width: 16%;}
+table.FlagButtons td {text-align: left; padding: 0.5em;}
+span.Red {color:#f44242;}
+span.Yellow {color:#eef442}
+span.Tan {color:#f4df42;}
+span.Green {color:#42f445;}
+span.Blue {color:#42cef4;}
+span.Grey {color:#d6d6d6;}
+a:link {color: #ffffff; text-decoration: underline; }
+a:active {color: #ffffee; text-decoration: underline; }
+a:visited {color: #ffffff; text-decoration: underline; }
+a:hover {color: #e0e0e0; text-decoration: none; }
+label {
+    float: left;
+    width: 120px;
+	color: #FAF8C4;
+    text-align: right;
+    margin-right: 0.5em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+}
+input.flagedit {
+	width: 108px;
+}
+input.slider {
+	width: 3em;
+}
+select.pickflag {
+	width: 95%;
+	font-size: large;
+}
