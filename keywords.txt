@@ -1,0 +1,12 @@
+FLAGSTAT	KEYWORD1
+enable		KEYWORD2
+disable		KEYWORD2
+enabled		KEYWORD2
+getMode		KEYWORD2
+setMode		KEYWORD2
+getOwner	KEYWORD2
+setOwner	KEYWORD2
+getButton	KEYWORD2
+setButton	KEYWORD2
+getModeS	KEYWORD2
+getOwnerS	KEYWORD2
